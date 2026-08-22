@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) - *Easy*
 - [Reverse a Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Linked%20List) - *Easy*
 - [Partition List](./LeetCode/Medium/Partition%20List) - *Medium*
 - [Merge Sort for Linked List](./GeeksForGeeks/Medium/Merge%20Sort%20for%20Linked%20List) - *Medium*
