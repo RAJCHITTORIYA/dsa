@@ -8,12 +8,13 @@
 | **Solved On** | August 22, 2026 |
 | **Tags** | Linked List, Two Pointers, Stack, Recursion |
 | **Link** | [View Problem](https://leetcode.com/problems/palindrome-linked-list/) |
-| **Runtime** | 5 ms |
-| **Memory** | 100.9 MB |
+| **Runtime** | 4 ms |
+| **Memory** | 94.2 MB |
 
 ## Approach
 
-Brute Force Method
+T.C:  0(n)
+A.S:  0(1)
 
 ## Problem Description
 
