@@ -10,4 +10,6 @@
 
 ## Approach
 
-Best approach 
+Recursive Approach 
+T.C: 0(n)
+A.s: 0(1)
