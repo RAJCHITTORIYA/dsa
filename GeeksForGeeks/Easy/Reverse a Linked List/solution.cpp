@@ -13,6 +13,9 @@ class Node {
 class Solution {
     Node reverseList(Node head) {
         
+        
+        // Method -1 : Brute Force Method 
+        
         // Node temp = head;
         // ArrayList <Node> arr = new ArrayList<>();
         
@@ -33,18 +36,35 @@ class Solution {
         // arr.get(0).next = null;
         // return arr.get(n-1);
         
-        Node prev = null;
-        Node curr = head;
-        Node fwd = null;
-        while( curr!= null)
-        {
-            fwd = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = fwd;
-        }
-        return prev;
+        
+        // Method -2  three pointer method
+        
+        // Node prev = null;
+        // Node curr = head;
+        // Node fwd = null;
+        // while( curr!= null)
+        // {
+        //     fwd = curr.next;
+        //     curr.next = prev;
+        //     prev = curr;
+        //     curr = fwd;
+        // }
+        // return prev;
+        
+        
+        // Method - 3 reverse recursively method
+        
+        if(head == null || head.next == null) return head;
+        
+        Node a = head.next;
+        head.next = null;
+        Node b = reverseList(a);
+        
+        
+        
+        a.next = head;
+        return b;
+        
         
     }
-    
 }
