@@ -10,5 +10,4 @@
 
 ## Approach
 
-Brute Force Method 
-best approaches is also there ......
+Best approach 
