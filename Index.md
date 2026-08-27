@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) - *Hard*
 - [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) - *Medium*
 - [Odd Even Linked List](./LeetCode/Medium/Odd%20Even%20Linked%20List) - *Medium*
 - [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) - *Easy*
