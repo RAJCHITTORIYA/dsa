@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reverse a sublist of a linked list](./GeeksForGeeks/Hard/Reverse%20a%20sublist%20of%20a%20linked%20list) - *Hard*
 - [Merge K Sorted Linked Lists](./GeeksForGeeks/Medium/Merge%20K%20Sorted%20Linked%20Lists) - *Medium*
 - [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) - *Hard*
 - [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) - *Medium*
