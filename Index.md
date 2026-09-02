@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Split a Linked List Into Halves](./GeeksForGeeks/Easy/Split%20a%20Linked%20List%20Into%20Halves) - *Easy*
 - [Circular Linked List Traversal](./GeeksForGeeks/Easy/Circular%20Linked%20List%20Traversal) - *Easy*
 - [Reverse a sublist of a linked list](./GeeksForGeeks/Hard/Reverse%20a%20sublist%20of%20a%20linked%20list) - *Hard*
 - [Merge K Sorted Linked Lists](./GeeksForGeeks/Medium/Merge%20K%20Sorted%20Linked%20Lists) - *Medium*
