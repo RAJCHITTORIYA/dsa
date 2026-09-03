@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
 - [Split a Linked List Into Halves](./GeeksForGeeks/Easy/Split%20a%20Linked%20List%20Into%20Halves) - *Easy*
 - [Circular Linked List Traversal](./GeeksForGeeks/Easy/Circular%20Linked%20List%20Traversal) - *Easy*
