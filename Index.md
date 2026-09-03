@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Long Pressed Name](./LeetCode/Easy/Long%20Pressed%20Name) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
 - [Split a Linked List Into Halves](./GeeksForGeeks/Easy/Split%20a%20Linked%20List%20Into%20Halves) - *Easy*
