@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) - *Easy*
 - [Majority Element](./LeetCode/Easy/Majority%20Element) - *Easy*
 - [Stock Buy and Sell](./GeeksForGeeks/Medium/Stock%20Buy%20and%20Sell) - *Medium*
 - [Copy List with Random Pointer](./LeetCode/Medium/Copy%20List%20with%20Random%20Pointer) - *Medium*
