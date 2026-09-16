@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Baseball Game](./LeetCode/Easy/Baseball%20Game) - *Easy*
 - [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) - *Easy*
 - [Height Checker](./LeetCode/Easy/Height%20Checker) - *Easy*
 - [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) - *Easy*
