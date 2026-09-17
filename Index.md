@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) - *Easy*
 - [Baseball Game](./LeetCode/Easy/Baseball%20Game) - *Easy*
