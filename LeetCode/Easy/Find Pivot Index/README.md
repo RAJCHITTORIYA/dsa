@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | September 19, 2026 |
+| **Solved On** | September 20, 2026 |
 | **Tags** | Array, Prefix Sum |
 | **Link** | [View Problem](https://leetcode.com/problems/find-pivot-index/) |
 | **Runtime** | 1 ms |
-| **Memory** | 47.3 MB |
+| **Memory** | 47.5 MB |
 
 ## Problem Description
 
