@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [Shift 2D Grid](./LeetCode/Easy/Shift%202D%20Grid) - *Easy*
 - [Flipping an Image](./LeetCode/Easy/Flipping%20an%20Image) - *Easy*
 - [Lucky Numbers in a Matrix](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix) - *Easy*
