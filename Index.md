@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Lucky Numbers in a Matrix](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix) - *Easy*
 - [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) - *Easy*
 - [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) - *Easy*
 - [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) - *Easy*
