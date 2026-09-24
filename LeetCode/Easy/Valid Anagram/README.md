@@ -5,15 +5,15 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | September 3, 2026 |
+| **Solved On** | September 24, 2026 |
 | **Tags** | Hash Table, String, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/valid-anagram/) |
-| **Runtime** | 3 ms |
+| **Runtime** | 4 ms |
 | **Memory** | 46.6 MB |
 
 ## Problem Description
 
-<p>Given two strings <code>s</code> and <code>t</code>, return <code>true</code> if <code>t</code> is an <span data-keyword="anagram" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_s_" data-state="closed" class="">anagram</button></span> of <code>s</code>, and <code>false</code> otherwise.</p>
+<p>Given two strings <code>s</code> and <code>t</code>, return <code>true</code> if <code>t</code> is an <span data-keyword="anagram" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_t_" data-state="closed" class="">anagram</button></span> of <code>s</code>, and <code>false</code> otherwise.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
