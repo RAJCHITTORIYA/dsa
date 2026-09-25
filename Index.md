@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Replace Elements with Greatest Element on Right Side](./LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) - *Easy*
 - [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) - *Medium*
 - [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) - *Medium*
 - [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
