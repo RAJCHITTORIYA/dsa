@@ -8,8 +8,8 @@
 | **Solved On** | September 25, 2026 |
 | **Tags** | Array |
 | **Link** | [View Problem](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) |
-| **Runtime** | 1400 ms |
-| **Memory** | 48.7 MB |
+| **Runtime** | 2 ms |
+| **Memory** | 49.2 MB |
 
 ## Problem Description
 
