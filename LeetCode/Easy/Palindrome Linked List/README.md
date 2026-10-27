@@ -9,7 +9,7 @@
 | **Tags** | Linked List, Two Pointers, Stack, Recursion |
 | **Link** | [View Problem](https://leetcode.com/problems/palindrome-linked-list/) |
 | **Runtime** | 3 ms |
-| **Memory** | 95 MB |
+| **Memory** | 94.2 MB |
 
 ## Problem Description
 
