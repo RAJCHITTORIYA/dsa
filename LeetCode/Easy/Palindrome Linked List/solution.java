@@ -9,66 +9,32 @@
  * }
  */
 class Solution {
-
-    public static ListNode reverse(ListNode head)
-    {
-        ListNode curr = head;
-        ListNode prev = null;
-        ListNode fwd = null;
-        while(curr != null)
-        {
-            fwd = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = fwd;
-        }
-        return prev;
-    }
     public boolean isPalindrome(ListNode head) {
-    //     ListNode temp = head;
-    //     ArrayList<ListNode> ans = new ArrayList<>();
+        ListNode temp = head;
+        int length = 0;
 
-    //     while(temp != null)
-    //     {
-    //         ans.add(temp);
-    //         temp = temp.next;
-    //     }
-    //     int j = ans.size();
-
-    //     int i = 0;
-    //     while(i<j)
-    //     {
-    //         if(ans.get(i).val != ans.get(j-1).val)
-    //         {
-    //             return false;
-
-    //         }
-    //         i++;
-    //         j--;
-
-    //     }
-    //    return true;
-
-        ListNode slow = head;
-        ListNode fast = head;
-        while(fast.next!= null && fast.next.next != null)
+        while(temp!= null)
         {
-            slow = slow.next;
-            fast = fast.next.next;
-
+            temp = temp.next;
+            length++;
         }
-        ListNode head2 = slow.next;
-        slow.next = null;
-        head2 = reverse(head2);
-
-        ListNode i = head;
-        ListNode j = head2;
-        while(j!= null)
+        temp = head;
+        if(length == 1) return true;
+        //if(length == 2 ) return false;
+        int[] arr = new int[length];
+        int k = 0;
+        while(temp!=null)
         {
-            if(i.val != j.val) return false;
-            i = i .next;
-            j = j.next;
+            arr[k++] = temp.val;
+            temp = temp.next;  
         }
-        return true;        
+
+        for(int i = 0 , j = length -1 ; i < j; i++ , j--)
+        {
+                if(arr[i] != arr[j]) return false;
+        }
+
+        return true;
+        
     }
 }
