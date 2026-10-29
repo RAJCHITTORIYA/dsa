@@ -9,32 +9,40 @@
  * }
  */
 class Solution {
-    public ListNode mergeTwoLists(ListNode head1, ListNode head2) {
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
-
-        ListNode i = head1;
-        ListNode j = head2;
-        ListNode dummy = new ListNode(-1);
-        ListNode k = dummy;
-        
-        while(i!= null && j!= null)
+        ArrayList<Integer> list = new ArrayList<>();
+        while(list1 != null)
         {
-            if(i.val <= j.val)
-            {
-                k.next = i;
-                i = i.next;
-            }
-            else
-            {
-                k.next = j;
-                j =  j.next;
-            }
-            k = k.next;
-            
+            list.add(list1.val);
+            list1 = list1.next;
         }
-        if( i == null) k.next = j;
-        else k.next = i;
-        return dummy.next;
+        while(list2 != null)
+        {
+            list.add(list2.val);
+            list2 = list2.next;
+        }
+        Collections.sort(list);
+
+
+
+        ListNode head = null;
+        ListNode tail = null;
+
+for (int num : list) {
+    ListNode newNode = new ListNode(num);
+
+    if (head == null) {
+        head = newNode;
+        tail = newNode;
+    } else {
+        tail.next = newNode;
+        tail = newNode;
+    }
+}
+
+
+return head;
 
         
     }
