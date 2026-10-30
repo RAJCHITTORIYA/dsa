@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | October 29, 2026 |
+| **Solved On** | October 30, 2026 |
 | **Tags** | Linked List, Recursion |
 | **Link** | [View Problem](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | **Runtime** | 3 ms |
-| **Memory** | 43.9 MB |
+| **Memory** | 43.8 MB |
 
 ## Problem Description
 
