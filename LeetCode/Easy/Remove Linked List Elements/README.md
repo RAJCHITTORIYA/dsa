@@ -9,7 +9,7 @@
 | **Tags** | Linked List, Recursion |
 | **Link** | [View Problem](https://leetcode.com/problems/remove-linked-list-elements/) |
 | **Runtime** | 1 ms |
-| **Memory** | 47 MB |
+| **Memory** | 46.8 MB |
 
 ## Problem Description
 
