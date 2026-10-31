@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Replace Consecutive Two Same with One](./GeeksForGeeks/Easy/Replace%20Consecutive%20Two%20Same%20with%20One) - *Easy*
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 - [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) - *Easy*
 - [Remove Linked List Elements](./LeetCode/Easy/Remove%20Linked%20List%20Elements) - *Easy*
