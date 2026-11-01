@@ -5,10 +5,10 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | September 16, 2026 |
+| **Solved On** | November 1, 2026 |
 | **Tags** | Array, Stack, Simulation |
 | **Link** | [View Problem](https://leetcode.com/problems/baseball-game/) |
-| **Runtime** | 1 ms |
+| **Runtime** | 3 ms |
 | **Memory** | 43.3 MB |
 
 ## Problem Description
