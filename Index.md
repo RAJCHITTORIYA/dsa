@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) - *Medium*
 - [Remove Nodes From Linked List](./LeetCode/Medium/Remove%20Nodes%20From%20Linked%20List) - *Medium*
 - [Replace Consecutive Two Same with One](./GeeksForGeeks/Easy/Replace%20Consecutive%20Two%20Same%20with%20One) - *Easy*
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
