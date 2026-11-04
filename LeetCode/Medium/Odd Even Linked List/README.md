@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | java |
-| **Solved On** | August 22, 2026 |
+| **Solved On** | November 4, 2026 |
 | **Tags** | Linked List |
 | **Link** | [View Problem](https://leetcode.com/problems/odd-even-linked-list/) |
 | **Runtime** | 0 ms |
-| **Memory** | 46.1 MB |
+| **Memory** | 45.8 MB |
 
 ## Problem Description
 
