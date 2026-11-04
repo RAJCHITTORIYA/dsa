@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) - *Easy*
 - [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) - *Medium*
 - [Remove Nodes From Linked List](./LeetCode/Medium/Remove%20Nodes%20From%20Linked%20List) - *Medium*
 - [Replace Consecutive Two Same with One](./GeeksForGeeks/Easy/Replace%20Consecutive%20Two%20Same%20with%20One) - *Easy*
