@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
 - [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) - *Easy*
 - [Remove Duplicates from Sorted List](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20List) - *Easy*
 - [Next Greater Element](./GeeksForGeeks/Medium/Next%20Greater%20Element) - *Medium*
