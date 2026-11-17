@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Celebrity Problem](./GeeksForGeeks/Medium/Celebrity%20Problem) - *Medium*
 - [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
 - [Valid Mountain Array](./LeetCode/Easy/Valid%20Mountain%20Array) - *Easy*
 - [Binary Search](./LeetCode/Easy/Binary%20Search) - *Easy*
