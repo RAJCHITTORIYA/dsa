@@ -1,47 +1,33 @@
 class Solution {
-    public int[] relativeSortArray(int[] arr1, int[] arr2) {
+    public int[] relativeSortArray(int[] arr, int[] arr2) {
+        int n = arr.length;
+        int n2 = arr2.length;
+        int[] arr3 = new int[n];
 
-        // Step 1: arr1 ko sort karo
-        Arrays.sort(arr1);
+        Arrays.sort(arr);
+        boolean[] visited = new boolean[n];
 
-        int[] result = new int[arr1.length];
-        boolean[] visited = new boolean[arr1.length];
+        int k = 0;
 
-        int index = 0;
+        for(int j = 0 ; j<n2 ; j++)
+        {
+            for(int i = 0 ; i< n ; i++)
+            {
+                 if(arr[i] == arr2[j] && !visited[i]) {
 
-        // Step 2: arr2 ke according elements nikalo
-        for (int i = 0; i < arr2.length; i++) {
-
-            for (int j = 0; j < arr1.length; j++) {
-
-                if (!visited[j] && arr1[j] == arr2[i]) {
-
-                    result[index] = arr1[j];
-                    index++;
-
-                    visited[j] = true;
+                    arr3[k++] = arr[i];
+                    visited[i] = true;
                 }
             }
         }
 
-        // Step 3: jo elements arr2 mein nahi hain
-        // unko ascending order mein add karo
-        for (int i = 0; i < arr1.length; i++) {
+        for(int i = 0; i < n; i++) {
 
-            if (!visited[i]) {
-                result[index] = arr1[i];
-                index++;
+            if(!visited[i]) {
+                arr3[k++] = arr[i];
             }
         }
 
-        return result;
-               
-        
+        return arr3;        
     }
 }
-
-
-
-
-
-
