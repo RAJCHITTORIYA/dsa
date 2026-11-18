@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Max Rectangle](./GeeksForGeeks/Hard/Max%20Rectangle) - *Hard*
 - [Largest Rectangle in Histogram](./LeetCode/Hard/Largest%20Rectangle%20in%20Histogram) - *Hard*
 - [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
 - [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) - *Easy*
