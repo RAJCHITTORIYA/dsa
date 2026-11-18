@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) - *Easy*
 - [Number of Visible People in a Queue](./LeetCode/Hard/Number%20of%20Visible%20People%20in%20a%20Queue) - *Hard*
 - [Celebrity Problem](./GeeksForGeeks/Medium/Celebrity%20Problem) - *Medium*
 - [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
