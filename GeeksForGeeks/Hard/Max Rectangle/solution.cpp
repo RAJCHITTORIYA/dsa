@@ -40,10 +40,6 @@ class Solution {
            return maxArea;        
        }
     
-    
-    
-    
-    
     public int maxArea(int mat[][]) {
         int n = mat.length ;
         int m = mat[0].length;
