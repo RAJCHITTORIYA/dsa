@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
 - [First Bad Version](./LeetCode/Easy/First%20Bad%20Version) - *Easy*
 - [Number of Visible People in a Queue](./LeetCode/Hard/Number%20of%20Visible%20People%20in%20a%20Queue) - *Hard*
 - [Celebrity Problem](./GeeksForGeeks/Medium/Celebrity%20Problem) - *Medium*
