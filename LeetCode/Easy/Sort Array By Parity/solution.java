@@ -28,23 +28,40 @@ class Solution {
         // }
         // return nums;
 
-        int[] ans = new int[n];
-        int left = 0 ;
-        int right = n-1;
-        int k = 0 ;   
+        // int[] ans = new int[n];
+        // int left = 0 ;
+        // int right = n-1;
+        // int k = 0 ;   
 
-        for(int i = 0 ; i< n ; i++)
-        {
+        // for(int i = 0 ; i< n ; i++)
+        // {
          
-            if(nums[i] %2 == 0)
-            {
-                ans[left++] = nums[i];
-            }
-            else{
-                ans[right--] = nums[i];
+        //     if(nums[i] %2 == 0)
+        //     {
+        //         ans[left++] = nums[i];
+        //     }
+        //     else{
+        //         ans[right--] = nums[i];
                
+        //     }
+        // }        
+        // return ans;
+
+        int i = 0 , j = n-1;
+        while(i<j)
+        {
+            if(nums[i] %2 == 0)i++;
+            else if(nums[j]  % 2 != 0)j--;
+            else
+            {
+                int temp = nums[i];
+                nums[i] = nums[j];
+                nums[j] = temp;
+                i++;
+                j--;
             }
-        }        
-        return ans;
+        }
+        return nums;
     }
+
 }
