@@ -21,10 +21,10 @@ class Solution {
         int e = 0 , o = 0;
         for(int i = 0 ; i< n ; i++)
         {
-            if(i %2 != 0) ans[i] = odd[o++];
-            else  ans[i] = even[e++];
+            if(i %2 != 0) nums[i] = odd[o++];
+            else  nums[i] = even[e++];
 
         }
-        return ans;        
+        return nums;        
     }
 }
