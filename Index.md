@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) - *Easy*
 - [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) - *Hard*
 - [Max Rectangle](./GeeksForGeeks/Hard/Max%20Rectangle) - *Hard*
 - [Largest Rectangle in Histogram](./LeetCode/Hard/Largest%20Rectangle%20in%20Histogram) - *Hard*
