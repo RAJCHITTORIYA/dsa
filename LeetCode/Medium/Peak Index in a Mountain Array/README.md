@@ -8,8 +8,8 @@
 | **Solved On** | November 20, 2026 |
 | **Tags** | Array, Binary Search, Ternary Search |
 | **Link** | [View Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |
-| **Runtime** | 3 ms |
-| **Memory** | 80 MB |
+| **Runtime** | 0 ms |
+| **Memory** | 79.6 MB |
 
 ## Problem Description
 
