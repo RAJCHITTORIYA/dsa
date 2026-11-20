@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Peak Index in a Mountain Array](./LeetCode/Medium/Peak%20Index%20in%20a%20Mountain%20Array) - *Medium*
 - [Sort Array By Parity II](./LeetCode/Easy/Sort%20Array%20By%20Parity%20II) - *Easy*
 - [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) - *Hard*
 - [Max Rectangle](./GeeksForGeeks/Hard/Max%20Rectangle) - *Hard*
