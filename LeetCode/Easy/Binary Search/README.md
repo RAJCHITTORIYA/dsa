@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | November 12, 2026 |
+| **Solved On** | November 22, 2026 |
 | **Tags** | Array, Binary Search |
 | **Link** | [View Problem](https://leetcode.com/problems/binary-search/) |
 | **Runtime** | 0 ms |
-| **Memory** | 47.8 MB |
+| **Memory** | 47.7 MB |
 
 ## Problem Description
 
