@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | java |
-| **Solved On** | November 12, 2026 |
+| **Solved On** | November 22, 2026 |
 | **Tags** | Array |
 | **Link** | [View Problem](https://leetcode.com/problems/valid-mountain-array/) |
 | **Runtime** | 2 ms |
-| **Memory** | 47.2 MB |
+| **Memory** | 46.7 MB |
 
 ## Problem Description
 
