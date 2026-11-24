@@ -8,8 +8,8 @@
 | **Solved On** | November 24, 2026 |
 | **Tags** | Array, Stack, Monotonic Stack |
 | **Link** | [View Problem](https://leetcode.com/problems/daily-temperatures/) |
-| **Runtime** | 54 ms |
-| **Memory** | 107.3 MB |
+| **Runtime** | 61 ms |
+| **Memory** | 107.4 MB |
 
 ## Problem Description
 
