@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) - *Medium*
 - [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) - *Easy*
 - [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) - *Easy*
 - [Min Stack](./LeetCode/Medium/Min%20Stack) - *Medium*
