@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) - *Easy*
 - [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) - *Easy*
 - [Min Stack](./LeetCode/Medium/Min%20Stack) - *Medium*
 - [The K Weakest Rows in a Matrix](./LeetCode/Easy/The%20K%20Weakest%20Rows%20in%20a%20Matrix) - *Easy*
