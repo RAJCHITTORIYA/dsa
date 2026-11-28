@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Queue Reversal](./GeeksForGeeks/Easy/Queue%20Reversal) - *Easy*
 - [Reverse First K of Queue](./GeeksForGeeks/Easy/Reverse%20First%20K%20of%20Queue) - *Easy*
 - [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) - *Medium*
 - [Number of Recent Calls](./LeetCode/Easy/Number%20of%20Recent%20Calls) - *Easy*
